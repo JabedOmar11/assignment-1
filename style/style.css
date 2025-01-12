@@ -1,0 +1,185 @@
+
+  
+
+
+.head-top{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .signin{
+    color:#006A50;
+    padding:12px 18px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size:15px ;
+    border-color: #006A50;
+    background-color: white;
+  }
+  .logo{
+    color: #0E0E0E;
+  }
+  body{
+    margin: 0px 110px 0px 110px;
+    background-color: #f5f5f5;
+  
+  }
+  
+  .banner{
+    display: flex;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+  }
+  .hero{
+    padding: 0px 10px;
+  
+  }
+  .banner-content{
+    margin: 117px 60px ;
+    
+  }
+  .banner-top-text{
+    
+    font-size: 24px;
+    font-weight: bold;
+    color: #0e0e0e7e;
+    font-style: normal;
+  
+  }
+  .banner-title{
+    font-size: 56px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .btn-parimary{
+    background-color: #006A50;
+    font-weight: 700;
+    color:#ffffff;
+    padding:18px 35px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    border: none;
+  }
+  .btn-parimary:hover{
+    background-color: white;
+    color:#006A50;
+    border:1px solid #006A50;
+  }
+  
+  
+  
+  .banner-hero-pic{
+    margin: 80px 60px;
+    
+  }
+  .section-one{
+    display: flex;
+  }
+  .section-one-title{
+    font-size:40px;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-bottom: 24px;
+    color: rgb(14, 14, 14);
+    padding:0px 12px
+    
+  }
+  .section-title{
+    font-size: 22px;
+    margin-top: 5px;
+    
+  }
+  .section-des{
+    color: rgba(0, 0, 0, 0.632);
+    
+  }
+  
+  .section-vision{
+    display: flex;
+    
+  }
+  .vision-title{
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.8);
+    
+  }
+  .vision-sub-des{
+  font-size: 16px;
+  font-weight: 400;
+  color:rgba(14, 14, 14, 0.7);
+  padding:0px 18px;
+  }
+  .vision-des{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+  }
+  .btn1{
+    border-radius: 8px;
+    padding:11px 20px;
+    order: 2px;
+    border: none;
+    background-color:rgb(84, 144, 245);
+    color: white;
+  }
+  .btn1:hover{
+    background-color: #ffffff;
+    color:blue ;
+    border:1px solid blue;
+  }
+  .btn2{
+    border-radius: 8px;
+    padding:11px 20px;
+    order: 2px;
+    border: none;
+    background-color:rgb(9, 161, 92);
+    color: white;
+  }
+  .btn2:hover{
+    background-color: #ffffff;
+    color:rgb(9, 161, 92) ;
+    border:1px solid rgb(9, 161, 92);
+  }
+  .btn3{
+    border-radius: 8px;
+    padding:11px 20px;
+    order: 2px;
+    border: none;
+    background-color:rgb(255, 194, 57);
+    color: white;
+  }
+  .btn3:hover{
+    background-color: #ffffff;
+    color:rgb(255, 194, 57);
+    border:1px solid rgb(255, 194, 57);
+  }
+  .vision1{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: rgba(84, 186, 245, 0.2);
+    margin: 10px;
+  }
+  .vision1:hover{
+    background-color:rgba(181, 84, 245, 0.574) ;
+  }
+  
+  .vision2{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: rgb(198, 228, 209);
+    margin: 10px;
+  }
+  .vision2:hover{
+    background-color:rgb(136, 185, 230) ;
+  }
+  .vision3{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: rgb(247, 240, 207);
+    margin: 10px;
+  }
+  .vision3:hover{
+    background-color:rgb(251, 194, 156);
+  }
