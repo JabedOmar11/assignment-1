@@ -225,7 +225,7 @@
     margin-top: 24px;
   
   }
-  .boxx{
+  .box{
     
     display: flex;
   }
@@ -369,3 +369,79 @@
     border:1px solid #006a17;
   
   }
+  .sub-title{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin:16px 0px;
+    padding:0px 100px 0px 100px;
+    letter-spacing: 0%;
+    color: rgba(14, 14, 14, 0.7);
+  }
+  
+  .footers-input{
+    justify-content: center;
+   
+    display: flex;
+  
+  }
+  .footer-input{
+   padding: 18px 40px 18px 40px;
+   border-radius: 8px 0px 0px 8px;
+   border: none;
+   width: 580px;
+   font-size: 16px;
+   font-weight: 400;
+   color: rgba(14, 14, 14, 0.111);
+  
+  }
+  .submit-btn{
+    padding:17px 34px 17px 34px;
+    width: 150px;
+    height: 56px;
+    border-radius: 0px 8px 8px 0px;
+    border: none;
+    background-color: rgb(0, 106, 80);
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+  }
+  .sub-box{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background-color:rgb(198, 228, 214);
+    border-radius: 24px;
+    padding:80px 100px 80px 100px;
+  }
+  .spam{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin: 24px 0px;
+  }
+  
+  .footer-lest{
+    background-color: rgb(255, 255, 255);
+    padding:20px 150px 20px 150px;
+    margin:0px;
+    border-radius: 10px;
+  }
+  .lest-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    padding:40px 150px 40px 150px;
+    color:rgb(14, 14, 14);
+  }
+  .hr{
+    color: 1px
+    rgba(138, 138, 138, 0.129);
+  }
+  .socialimg{
+    display: flex;
+    justify-content: center;
+    gap:23px;
+    margin-top: 32px;
+  }
+  
