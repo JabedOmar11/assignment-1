@@ -191,24 +191,24 @@
     padding: 0px;
   }
   
-  .you-des-top{
+  .yunus-description-top{
     font-size: 16px;
     font-weight: 400;
     color: rgba(14, 14, 14, 0.8);
   }
-  .you-title{
+  .yunus-title{
     margin: 0px;
     font-size: 20px;
     font-weight: 600;
     color:rgba(14, 14, 14, 0.8);
   }
-  .you-des{
+  .yunus-description{
     margin-top:3px;
     font-size:16px;
     font-weight: 400;
     color:rgba(14, 14, 14, 0.6);
   }
-  .you-top{
+  .yunus-top{
   
     padding: 40px 24px 40px 24px;
     background-color: white;
@@ -216,3 +216,66 @@
     border-radius:16px;
     margin-top: 30px;
   }
+  .news-fast-box{
+  
+    background-color:rgb(255, 255, 255);
+    border-radius: 24px;
+    gap: 32px;
+    padding: 45px;
+    margin-top: 24px;
+  
+  }
+  .boxx{
+    
+    display: flex;
+  }
+  .box-img{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+  }
+  .fast-box{
+    margin-left: 32px;
+  
+  }
+  .box-title{
+    font-size: 32px;
+    margin: 0px;
+    color:rgba(14, 14, 14, 0.8)
+  }
+  .title-img{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+  .fast-box-des{
+    font-size: 18px;
+    color: rgba(14, 14, 14, 0.7);
+  }
+  .box-btn{
+    background-color: #006A50;
+    font-weight: 700;
+    color:#ffffff;
+    padding:13px 26px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 25px;
+    border: none;
+  }
+  .box-btn:hover{
+    background-color: white;
+    color:#006A50;
+    border:1px solid #006A50;
+  }
+  time{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    text-align: left;
+    margin-right: 12px;
+  }
+  .boxx2{
+    display: flex;
+  }
+  .fast-boxx{
+    margin-right: 32px;
+  } 
