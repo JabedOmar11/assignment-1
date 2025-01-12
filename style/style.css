@@ -273,13 +273,13 @@
     text-align: left;
     margin-right: 12px;
   }
-  .boxx2{
+  .box2{
     display: flex;
   }
   .fast-boxx{
     margin-right: 32px;
   } 
-  .doate-top{
+  .donate-top{
     text-align: center;
   }
   .donate-title{
@@ -327,7 +327,7 @@
     border-radius: 16px;
     color:rgba(14, 14, 14, 0.8);
     border: 1px solid rgba(14, 14, 14, 0.15);
-    background-color: rgb(198, 228, 214); 
+    background-color: rgb(200, 198, 228); 
   }
   .donate-box-dip:hover{
     background-color: #43006a;
@@ -353,7 +353,7 @@
     justify-self: center;
    text-align: center;
   }
-  .box-btnn{
+  .box-btn2{
     background-color: #006A50;
     font-weight: 700;
     color:#ffffff;
@@ -363,7 +363,7 @@
     margin-top: 25px;
     border: none;
   }
-  .box-btnn:hover{
+  .box-btn2:hover{
     background-color: white;
     color:#4c006a;
     border:1px solid #006a17;
